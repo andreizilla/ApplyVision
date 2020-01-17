@@ -36,11 +36,38 @@ It is useful to have a bookmark to ApplyVision in your browser to help you apply
 
 After installing, you will have a **"Start ApplyVision"** stortcut in your **Start menu** and **Desktop**.
 
-### Screenshots:
+### How it works:
 
-Main user console:
 
-<img src="https://raw.githubusercontent.com/andreizilla/ApplyVision/master/jobtracker_dashboard.png" />
+<h3><small>Step 1:</small><br />Create an account and add your Gmail account</h3>
+<h3><small>Step 2:</small><br />Find a job on Craigslist which you would like to apply for:</h3>
+
+<p><img src="jtpics/jobad.png" class="img-responsive" /></p>
+
+<h3><small>Step 3:</small><br />Use a ApplyVision Browser Button to extract the Craigslist contact info:</h3>
+
+
+<p><img src="jtpics/bookmarklet.png" class="img-responsive" /></p>
+<p>(above) To create a <b>browser button</b>, also known as a <b>bookmarklet</b>,
+make a shortcut to the button in the Templates page or drag the button to your <b>Favorites bar</b>.</p>
+
+<p><img src="jtpics/bookmarklet_in_browser.png" class="img-responsive" /></p>
+<p><b>In the Craigslist ad</b>, click on its <b class="btn btn-default">Reply</b> button,
+when the contact info shows up,  click on the ApplyVision <b>browser button (bookmarklet):</b></p>
+
+
+<p><img src="jtpics/new_jobtracker.png" class="img-responsive" /></p>
+<p>ApplyVision will extract the <b>email, contact phone number and name</b> from the Craigslist ad.</p>
+
+<h3><small>Step 4:</small><br />Your application email will be sent as you@gmail.com:</h3>
+
+<p><img src="jtpics/jobtracker_sent_email.png" class="img-responsive" /></p>
+
+
+<p><img src="jtpics/jobtracker_dashboard.png" class="img-responsive" /></p>
+<p>Organize your job applications in an easy way.</p>
+
+<p>ApplyVision is not limited to only Craigslist. It can be used to send emails to any destination.</p>
 
 History:
 

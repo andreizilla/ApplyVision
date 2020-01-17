@@ -2,7 +2,7 @@
 
 ### LATEST RELEASE:
 
-### Download here: [timerapp version 1.00](https://github.com/andreizilla/ApplyVision/raw/master/ApplyVision.msi)
+### Download here: [ApplyVision version 1.00](https://github.com/andreizilla/ApplyVision/raw/master/ApplyVision.msi)
 
 **ApplyVision is a Microsoft Windows application**
 

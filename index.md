@@ -4,6 +4,8 @@
 
 ### Download here: [timerapp version 1.00](https://github.com/andreizilla/ApplyVision/raw/master/ApplyVision.msi)
 
+**ApplyVision is a Microsoft Windows application**
+
 ApplyVision requires 2 additional packages from Microsoft to run. It comes with these pakcages in the installer and will
 try to instal them upon first run. If you wish to install these required packages manually then follow these directions:
 

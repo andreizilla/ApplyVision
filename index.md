@@ -7,7 +7,7 @@
 **ApplyVision is a Microsoft Windows application**
 
 ApplyVision requires 2 additional packages from Microsoft to run. It comes with these pakcages in the installer and will
-try to instal them upon first run. If you wish to install these required packages manually then follow these directions:
+try to install them upon first run. If you wish to install these required packages manually then follow these directions:
 
 Install this: [IIS Express](https://www.microsoft.com/en-us/download/details.aspx?id=48264)
 
@@ -31,7 +31,7 @@ at the page "Choose the download you want":
 
 **ApplyVision is a Microsoft Windows application**
 
-**ApplyVision does NOT require Administrative privileges to install, but you might get prompted in Install Microsoft IIS Express (which is the web server that hosts the timerapp files on your computer)**
+**ApplyVision does NOT require Administrative privileges to install, but you might get prompted in Install Microsoft IIS Express (which is the web server that hosts the ApplyVision files on your computer)**
 
 ApplyVision is a website (web app) which runs on your computer locally, at the address "http://localhost:8081/start.php".
 It is useful to have a bookmark to ApplyVision in your browser to help you apply for jobs.

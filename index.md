@@ -1,4 +1,4 @@
-## Download ApplyVision - A simple tool to send, track, and organize job application emails
+## Download ApplyVision - A simple tool to send and organize job application emails
 
 ### LATEST RELEASE:
 

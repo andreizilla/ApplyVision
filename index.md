@@ -6,7 +6,7 @@
 
 **ApplyVision is a Microsoft Windows application**
 
-ApplyVision requires 2 additional packages from Microsoft to run. It comes with these pakcages in the installer and will
+ApplyVision requires 2 additional packages from Microsoft to run. It comes with these packages in the installer and will
 try to install them upon first run. If you wish to install these required packages manually then follow these directions:
 
 Install this: [IIS Express](https://www.microsoft.com/en-us/download/details.aspx?id=48264)

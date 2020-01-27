@@ -79,3 +79,5 @@ Version 1.00 Released 1/19/2020
 
 ### The official website domain for ApplyVision is: [http://ApplyVision.tk](http://ApplyVision.tk)
 
+### TimeShade is developed by ShadySoft, LLC: [http://ShadySoft.tk](http://ShadySoft.tk)
+

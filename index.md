@@ -33,7 +33,7 @@ at the page "Choose the download you want":
 
 **ApplyVision does NOT require Administrative privileges to install, but you might get prompted in Install Microsoft IIS Express (which is the web server that hosts the ApplyVision files on your computer)**
 
-ApplyVision is a website (web app) which runs on your computer locally, at the address "http://localhost:8081/start.php".
+ApplyVision is a web app which runs on your computer locally, at the address "http://localhost:8081/start.php".
 It is useful to have a bookmark to ApplyVision in your browser to help you apply for jobs.
 
 After installing, you will have a **"Start ApplyVision"** stortcut in your **Start menu** and **Desktop**.
@@ -41,7 +41,7 @@ After installing, you will have a **"Start ApplyVision"** stortcut in your **Sta
 ### How it works:
 
 
-<h3><small>Step 1:</small><br />Create an account and add your Gmail account</h3>
+<h3><small>Step 1:</small><br />Register local user and connect to your Gmail account</h3>
 <h3><small>Step 2:</small><br />Find a job on Craigslist which you would like to apply for:</h3>
 
 <p><img src="jtpics/jobad.png" class="img-responsive" /></p>
